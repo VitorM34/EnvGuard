@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EnvGuard.Cli/EnvGuard.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EnvGuard.Tests/EnvGuard.Tests.csproj" />
+  </Folder>
+</Solution>
