@@ -11,7 +11,7 @@
 [![NuGet](https://img.shields.io/nuget/v/EnvGuard?color=1d9e75&label=nuget)](https://www.nuget.org/packages/EnvGuard)
 [![CI](https://github.com/YOUR_USERNAME/EnvGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/EnvGuard/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![.NET 8](https://img.shields.io/badge/.NET-8.0-512bd4)](https://dotnet.microsoft.com)
+[![.NET 10](https://img.shields.io/badge/.NET-10.0-512bd4)](https://dotnet.microsoft.com)
 
 </div>
 
@@ -109,7 +109,7 @@ A non-zero exit code fails the step and surfaces the diff in the logs.
 
 ## Architecture
 
-EnvGuard is a single .NET 8 console app with three internal layers:
+EnvGuard is a single .NET 10 console app with three internal layers:
 
 ```
 Commands/   →   orchestration (System.CommandLine)
